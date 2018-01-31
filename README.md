@@ -1,6 +1,6 @@
-# Create App React Redux
+# Create React App Redux
 
-An opinionated initial React Redux build configuration based on [create-react-app](https://github.com/facebook/create-react-app)
+An opinionated initial React Redux configuration based on [create-react-app](https://github.com/facebook/create-react-app)
 
 
 ## Scripts
